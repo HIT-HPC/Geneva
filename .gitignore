@@ -1,0 +1,12 @@
+.idea
+cmake-build-debug
+.vscode
+*.html
+__pycache__/*
+__pycache__/
+*.log
+build/*
+datasets/*
+!datasets/datasets_infor.md
+final_result/drawPic_runTime.py
+final_result/drawpics_datasize.py
